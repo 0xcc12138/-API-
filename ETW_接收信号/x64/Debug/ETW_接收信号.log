@@ -1,0 +1,6 @@
+﻿  main.cpp
+  main2.cpp
+F:\viusal studio document\麦洛克非系统安全\ETW_接收信号\main2.cpp(182,43): warning C4311: “类型强制转换”: 从“HANDLE”到“ULONG”的指针截断
+F:\viusal studio document\麦洛克非系统安全\ETW_接收信号\main2.cpp(182,43): warning C4302: “类型强制转换”: 从“HANDLE”到“ULONG”截断
+  正在生成代码...
+  ETW_接收信号.vcxproj -> F:\viusal studio document\麦洛克非系统安全\ETW_接收信号\x64\Debug\ETW_接收信号.exe
