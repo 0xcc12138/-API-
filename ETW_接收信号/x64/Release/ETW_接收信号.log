@@ -1,0 +1,10 @@
+﻿  main.cpp
+  main2.cpp
+F:\viusal studio document\麦洛克非系统安全\ETW_接收信号\main2.cpp(183,43): warning C4311: “类型强制转换”: 从“HANDLE”到“ULONG”的指针截断
+F:\viusal studio document\麦洛克非系统安全\ETW_接收信号\main2.cpp(183,43): warning C4302: “类型强制转换”: 从“HANDLE”到“ULONG”截断
+F:\viusal studio document\麦洛克非系统安全\ETW_接收信号\main2.cpp(90,17): warning C4101: “m_hTraceHandle_econt”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ETW_接收信号.vcxproj -> F:\viusal studio document\麦洛克非系统安全\ETW_接收信号\x64\Release\ETW_接收信号.exe
